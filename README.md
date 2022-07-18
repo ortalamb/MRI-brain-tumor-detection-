@@ -1,2 +1,2 @@
-# MRI-brain-tumor-detection-
+# MRI-brain-tumor-detection
 Detect and classify brain tumor using CNN and TL
